@@ -6,18 +6,18 @@ inLanguage: null
 starred: false
 keywords: []
 description: An introduction to our adventure and how we got here
-datePublished: '2016-03-02T03:56:16.017Z'
-dateModified: '2016-03-02T03:55:55.713Z'
+datePublished: '2016-03-02T04:10:45.023Z'
+dateModified: '2016-03-02T04:10:16.982Z'
 title: The adventure begins
 author: []
+sourcePath: _posts/2016-03-02-the-adventure-begins.md
+published: true
 authors: []
 publisher:
   name: null
   domain: null
   url: null
   favicon: null
-sourcePath: _posts/2016-03-02-the-adventure-begins.md
-published: true
 url: the-adventure-begins/index.html
 _type: Article
 
